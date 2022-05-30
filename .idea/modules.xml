@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/carownerhome-dubbo-interface/carownerhome-dubbo-interface.iml" filepath="E:/hanjiaxiangmu/chedidi/carownerhome-dubbo-interface/carownerhome-dubbo-interface.iml" />
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/carownerhome-dubbo-provider/carownerhome-dubbo-provider.iml" filepath="E:/hanjiaxiangmu/chedidi/carownerhome-dubbo-provider/carownerhome-dubbo-provider.iml" />
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/carownerhome-wx-miniprogram/carownerhome-wx-miniprogram.iml" filepath="E:/hanjiaxiangmu/chedidi/carownerhome-wx-miniprogram/carownerhome-wx-miniprogram.iml" />
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/carownerhomejob/carownerhomeNewjob.iml" filepath="E:/hanjiaxiangmu/chedidi/carownerhomejob/carownerhomeNewjob.iml" />
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/carownerhomecrm/carownerhomecrm.iml" filepath="E:/hanjiaxiangmu/chedidi/carownerhomecrm/carownerhomecrm.iml" />
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/commonNew/commonNew.iml" filepath="E:/hanjiaxiangmu/chedidi/commonNew/commonNew.iml" />
+      <module fileurl="file://E:/hanjiaxiangmu/chedidi/wxpay-sdk/wxpay-sdk.iml" filepath="E:/hanjiaxiangmu/chedidi/wxpay-sdk/wxpay-sdk.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="carownerhomecrm:war">
+    <output-path>E:/hanjiaxiangmu/chedidi/carownerhomecrm/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>carownerhomecrm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="carownerhomecrm.war">
+      <element id="artifact" artifact-name="carownerhomecrm:war exploded" />
+    </root>
+  </artifact>
+</component>
